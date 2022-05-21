@@ -1,0 +1,35 @@
+C:\Users\Lenovo\OneDrive\Desktop\Random Codes\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Random Codes\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\Random Codes\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Random Codes\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Random Codes\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\Tracker Library\bin\Debug\netcoreapp3.1\Tracker Library.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\Tracker Library\bin\Debug\netcoreapp3.1\Tracker Library.dll
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\Tracker Library\bin\Debug\netcoreapp3.1\Tracker Library.pdb
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.dll
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.pdb
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\TournamentTracker\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\TournamentTracker\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\TournamentTracker\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\TournamentTracker\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\TournamentTracker\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\TournamentTracker\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.dll
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\TournamentTracker\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.pdb
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\TournamentTracker\Tracker Library\bin\Debug\netcoreapp3.1\Tracker Library.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\TournamentTracker\Tracker Library\bin\Debug\netcoreapp3.1\Tracker Library.dll
+C:\Users\Lenovo\OneDrive\Desktop\codes\Random Codes\TournamentTracker\Tracker Library\bin\Debug\netcoreapp3.1\Tracker Library.pdb
+C:\Users\Lenovo\OneDrive\Desktop\codes\TournamentTracker\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\codes\TournamentTracker\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\codes\TournamentTracker\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\codes\TournamentTracker\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\codes\TournamentTracker\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\codes\TournamentTracker\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.dll
+C:\Users\Lenovo\OneDrive\Desktop\codes\TournamentTracker\Tracker Library\obj\Debug\netcoreapp3.1\Tracker Library.pdb
+C:\Users\Lenovo\OneDrive\Desktop\codes\TournamentTracker\Tracker Library\bin\Debug\netcoreapp3.1\Tracker Library.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\codes\TournamentTracker\Tracker Library\bin\Debug\netcoreapp3.1\Tracker Library.dll
+C:\Users\Lenovo\OneDrive\Desktop\codes\TournamentTracker\Tracker Library\bin\Debug\netcoreapp3.1\Tracker Library.pdb
